@@ -17,15 +17,6 @@
       },
       "modules": [
         {
-          "id": "nebula.library:fabric-loader-0.18.4-1.21.1:1.0.0@jar",
-          "name": "fabric-loader-0.18.4-1.21.1",
-          "type": "Library",
-          "classpath": true,
-          "artifact": {
-            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-loader-0.18.4-1.21.1"
-          }
-        },
-        {
           "id": "nebula.file:allthemonsr3.1.zip:1.0.0@jar",
           "name": "AllTheMons [R3.1].zip",
           "type": "File",
@@ -4559,6 +4550,15 @@
             "path": "config/zoomify.json",
             "MD5": "c0509955740d61804de166a0860cd46f",
             "size": 714
+          }
+        },
+        {
+          "id": "nebula.library:fabric-loader-0.18.4-1.21.1:1.0.0@jar",
+          "name": "fabric-loader-0.18.4-1.21.1",
+          "type": "Library",
+          "classpath": true,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-loader-0.18.4-1.21.1"
           }
         },
         {
