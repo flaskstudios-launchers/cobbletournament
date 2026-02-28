@@ -12,9 +12,6 @@
       "minecraftVersion": "1.21.1",
       "mainServer": false,
       "autoconnect": false,
-      "fabric": {
-        "version": "0.18.4"
-      },
       "modules": [
         {
           "id": "nebula.file:accessories.json5:1.0.0@jar",
@@ -5597,6 +5594,126 @@
             "path": "resourcepacks/CavsCobbleMons RP.zip",
             "MD5": "48b1e477d81842188d3fc25523dab1ac",
             "size": 293191
+          }
+        },
+        {
+          "id": "nebula.file:better-leaves-9.5.zip:1.0.0@jar",
+          "name": "Better-Leaves-9.5.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Better-Leaves-9.5.zip",
+            "path": "resourcepacks/Better-Leaves-9.5.zip",
+            "MD5": "160295900634077426b1261171d87f29",
+            "size": 1923769
+          }
+        },
+        {
+          "id": "nebula.file:cubicleaves2.3performance.zip:1.0.0@jar",
+          "name": "Cubic Leaves 2.3 (performance).zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Cubic.Leaves.2.3.performance.zip",
+            "path": "resourcepacks/Cubic Leaves 2.3 (performance).zip",
+            "MD5": "f2b7217e300b3237a3df7f42bc9c35f4",
+            "size": 827328
+          }
+        },
+        {
+          "id": "nebula.file:faall_extensions-v1.7.zip:1.0.0@jar",
+          "name": "FA+All_Extensions-v1.7.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/FA%2BAll_Extensions-v1.7.zip",
+            "path": "resourcepacks/FA+All_Extensions-v1.7.zip",
+            "MD5": "3758ce14650577dee0588e279629fec4",
+            "size": 404107
+          }
+        },
+        {
+          "id": "nebula.file:freshanimations_v1.10.3.zip:1.0.0@jar",
+          "name": "FreshAnimations_v1.10.3.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/FreshAnimations_v1.10.3.zip",
+            "path": "resourcepacks/FreshAnimations_v1.10.3.zip",
+            "MD5": "e4ae92af6330ef64932833b0060d0d15",
+            "size": 855766
+          }
+        },
+        {
+          "id": "nebula.file:spbr-16_2.zip:1.0.0@jar",
+          "name": "SPBR-16_2.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/SPBR-16_2.zip",
+            "path": "resourcepacks/SPBR-16_2.zip",
+            "MD5": "dc159dbd4f1fd5fc61258cb477c0fd6d",
+            "size": 14702156
+          }
+        },
+        {
+          "id": "nebula.file:vanillamashup1.4.1b.zip:1.0.0@jar",
+          "name": "Vanilla Mashup 1.4.1b.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Vanilla.Mashup.1.4.1b.zip",
+            "path": "resourcepacks/Vanilla Mashup 1.4.1b.zip",
+            "MD5": "b22a31eccb1b09f1a14d4ef9f4cd8615",
+            "size": 23320218
+          }
+        },
+        {
+          "id": "nebula.file:whimscape_1.20.2-1.21.11_r2.zip:1.0.0@jar",
+          "name": "Whimscape_1.20.2-1.21.11_r2.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Whimscape_1.20.2-1.21.11_r2.zip",
+            "path": "resourcepacks/Whimscape_1.20.2-1.21.11_r2.zip",
+            "MD5": "aecf21ef3031112bc4437233e495958d",
+            "size": 5306775
+          }
+        },
+        {
+          "id": "nebula.file:whimscape_x_freshanimations_1.20-1.21.11_r2.zip:1.0.0@jar",
+          "name": "Whimscape_x_FreshAnimations_1.20-1.21.11_r2.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Whimscape_x_FreshAnimations_1.20-1.21.11_r2.zip",
+            "path": "resourcepacks/Whimscape_x_FreshAnimations_1.20-1.21.11_r2.zip",
+            "MD5": "81fc7e7e96e90808eb75fb4a566b2e8c",
+            "size": 257323
+          }
+        },
+        {
+          "id": "nebula.file:1.21.2freshmovesv3.1withanimatedeyes.zip:1.0.0@jar",
+          "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/-1.21.2.Fresh.Moves.v3.1.With.Animated.Eyes.zip",
+            "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+            "MD5": "9425263fea042911f13a1482f4c3f436",
+            "size": 321871
+          }
+        },
+        {
+          "id": "nebula.file:betterbushyleaves4.1.zip:1.0.0@jar",
+          "name": "better bushy leaves 4.1.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/better.bushy.leaves.4.1.zip",
+            "path": "resourcepacks/better bushy leaves 4.1.zip",
+            "MD5": "4b610891014c23cf3f20b38e51f1a3dd",
+            "size": 256170
           }
         }
       ]
