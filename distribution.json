@@ -4553,15 +4553,6 @@
           }
         },
         {
-          "id": "nebula.library:fabric-loader-0.18.4-1.21.1:1.0.0@jar",
-          "name": "fabric-loader-0.18.4-1.21.1",
-          "type": "Library",
-          "classpath": true,
-          "artifact": {
-            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-loader-0.18.4-1.21.1"
-          }
-        },
-        {
           "id": "nebula.fabric:fabricfabric-loader:1.0.0@jar",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
