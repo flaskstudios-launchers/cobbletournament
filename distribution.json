@@ -4748,6 +4748,10 @@
           "name": "lithium-fabric-0.15.1+mc1.21.1.jar",
           "type": "FabricMod",
           "classpath": false,
+          "required": {
+            "value": false,
+            "def": true
+          },
           "artifact": {
             "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
             "MD5": "80e7fc6c2cbeb0e097f8a25880ccd0a8",
