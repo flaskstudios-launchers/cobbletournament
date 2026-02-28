@@ -4645,6 +4645,10 @@
           "name": "Flashback-0.38.2-for-MC1.21.1.jar",
           "type": "FabricMod",
           "classpath": false,
+          "required": {
+            "value": false,
+            "def": true
+          },
           "artifact": {
             "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Flashback-0.38.2-for-MC1.21.1.jar",
             "MD5": "d33e4c5b87a8b824fd52d0efba05fa4d",
