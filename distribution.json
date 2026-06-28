@@ -13,7 +13,7 @@
       "mainServer": false,
       "autoconnect": false,
       "fabric": {
-        "version": "0.18.4"
+        "version": "0.19.3"
       },
       "modules": [
         {
@@ -22,86 +22,86 @@
           "type": "Fabric",
           "classpath": true,
           "artifact": {
-            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__net__fabricmc__fabric-loader__0.18.4__fabric-loader-0.18.4.jar",
-            "MD5": "56c00fa22e0452e8567be1feae73c3b9",
-            "size": 1944518
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__net__fabricmc__fabric-loader__0.19.3__fabric-loader-0.19.3.jar",
+            "MD5": "881e0e9f53a11b9ad468b47afd678bfd",
+            "size": 1976502
           },
           "subModules": [
             {
-              "id": "1.21.1-fabric-0.18.4",
+              "id": "1.21.1-fabric-0.19.3",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/versions__1.21.1-fabric-0.18.4__1.21.1-fabric-0.18.4.json",
-                "MD5": "5d325277362072ab098925e51aeb4fd0",
-                "size": 2847
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/versions__1.21.1-fabric-0.19.3__1.21.1-fabric-0.19.3.json",
+                "MD5": "ce5198d5b3e6574cbe66a9e3946e8621",
+                "size": 2862
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.9",
+              "id": "org.ow2.asm:asm:9.10.1",
               "name": "Fabric (asm)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm__9.9__asm-9.9.jar",
-                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "size": 126122
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm__9.10.1__asm-9.10.1.jar",
+                "MD5": "9cb72080438acf27f2607002e1444a7b",
+                "size": 126151
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.9",
+              "id": "org.ow2.asm:asm-analysis:9.10.1",
               "name": "Fabric (asm-analysis)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-analysis__9.9__asm-analysis-9.9.jar",
-                "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "size": 35149
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-analysis__9.10.1__asm-analysis-9.10.1.jar",
+                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
+                "size": 35140
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.9",
+              "id": "org.ow2.asm:asm-commons:9.10.1",
               "name": "Fabric (asm-commons)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-commons__9.9__asm-commons-9.9.jar",
-                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "size": 74348
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-commons__9.10.1__asm-commons-9.10.1.jar",
+                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
+                "size": 74840
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.9",
+              "id": "org.ow2.asm:asm-tree:9.10.1",
               "name": "Fabric (asm-tree)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-tree__9.9__asm-tree-9.9.jar",
-                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "size": 51947
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-tree__9.10.1__asm-tree-9.10.1.jar",
+                "MD5": "62541e1dc62331408ef31317555bf4fa",
+                "size": 51958
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.9",
+              "id": "org.ow2.asm:asm-util:9.10.1",
               "name": "Fabric (asm-util)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-util__9.9__asm-util-9.9.jar",
-                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "size": 94565
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__org__ow2__asm__asm-util__9.10.1__asm-util-9.10.1.jar",
+                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
+                "size": 95628
               }
             },
             {
-              "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
+              "id": "net.fabricmc:sponge-mixin:0.17.3+mixin.0.8.7",
               "name": "Fabric (sponge-mixin)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__net__fabricmc__sponge-mixin__0.17.0+mixin.0.8.7__sponge-mixin-0.17.0+mixin.0.8.7.jar",
-                "MD5": "d27dcb910788a0bd4bea72942a714093",
-                "size": 1505269
+                "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lib__net__fabricmc__sponge-mixin__0.17.3+mixin.0.8.7__sponge-mixin-0.17.3+mixin.0.8.7.jar",
+                "MD5": "87002a5fc9faa1543bf4204f8d5876fb",
+                "size": 1540060
               }
             },
             {
@@ -116,6 +116,688 @@
               }
             }
           ]
+        },
+        {
+          "id": "nebula.fabricmod:decorativecomputers:2.1.0 Fabric 1.21x @jar",
+          "name": "decorativecomputers-2.1.0 Fabric 1.21x .jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/decorativecomputers-2.1.0.Fabric.1.21x.jar",
+            "MD5": "039f3352f4fbfe7cd853b0013d5890f3",
+            "size": 168716
+          }
+        },
+        {
+          "id": "nebula.fabricmod:deeperdarker-fabric:1.21-1.3.3-plus-b.jar.disabled@jar",
+          "name": "deeperdarker-fabric-1.21-1.3.3-plus-b.jar.disabled",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/deeperdarker-fabric-1.21-1.3.3-plus-b.jar.disabled",
+            "MD5": "5c978df941880d2d13e5c4d0525141d0",
+            "size": 17977802
+          }
+        },
+        {
+          "id": "nebula.fabricmod:DustyDecoRefabricated:1.1-1.21+1.21.1@jar",
+          "name": "DustyDecoRefabricated-1.1-1.21+1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/DustyDecoRefabricated-1.1-1.21%2B1.21.1.jar",
+            "MD5": "4a4fea36abc8ab731671cc19fd055fde",
+            "size": 538912
+          }
+        },
+        {
+          "id": "nebula.fabricmod:enhancedblockentities:0.10.2+1.21@jar",
+          "name": "enhancedblockentities-0.10.2+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/enhancedblockentities-0.10.2%2B1.21.jar",
+            "MD5": "793df59eddd294419dabcca66d1458ef",
+            "size": 201157
+          }
+        },
+        {
+          "id": "nebula.fabricmod:entity_model_features:3.2.4-1.21-fabric@jar",
+          "name": "entity_model_features-3.2.4-1.21-fabric.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/entity_model_features-3.2.4-1.21-fabric.jar",
+            "MD5": "91f3be98f2f2cd76d3ad68525f76ff79",
+            "size": 565280
+          }
+        },
+        {
+          "id": "nebula.fabricmod:entity_texture_features_1.21-fabric:7.1@jar",
+          "name": "entity_texture_features_1.21-fabric-7.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/entity_texture_features_1.21-fabric-7.1.jar",
+            "MD5": "ae33b3cdbe2d7b431e5d36c41efb34c9",
+            "size": 745421
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fabric-api:0.116.12+1.21.1@jar",
+          "name": "fabric-api-0.116.12+1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-api-0.116.12%2B1.21.1.jar",
+            "MD5": "f85c049c10c2240f89abe287ba0882d4",
+            "size": 2427037
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fabric-language-kotlin:1.13.12+kotlin.2.4.0@jar",
+          "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
+            "MD5": "dff437aac8aae6eb76ae9db6b6ea9cb0",
+            "size": 8076848
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fabric-runiclib:1.21.1-5.0.7@jar",
+          "name": "fabric-runiclib-1.21.1-5.0.7.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-runiclib-1.21.1-5.0.7.jar",
+            "MD5": "5bdc9a53632b5508a72c734b80047d96",
+            "size": 183545
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fabric-urban_decor:1.21.1-1.2.1@jar",
+          "name": "fabric-urban_decor-1.21.1-1.2.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fabric-urban_decor-1.21.1-1.2.1.jar",
+            "MD5": "910141deb844cbca463545dcadb0884c",
+            "size": 4230917
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fallingleaves:1.17.1+1.21.1@jar",
+          "name": "fallingleaves-1.17.1+1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fallingleaves-1.17.1%2B1.21.1.jar",
+            "MD5": "0dc0b0ffce9eb154e777f8664439db6d",
+            "size": 170056
+          }
+        },
+        {
+          "id": "nebula.fabricmod:farmhouse_decorations:26.4.0-fabric-1.21.1@jar",
+          "name": "farmhouse_decorations-26.4.0-fabric-1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/farmhouse_decorations-26.4.0-fabric-1.21.1.jar",
+            "MD5": "b691c26d23c74c9fe7f2bcb75e8b9e39",
+            "size": 1681209
+          }
+        },
+        {
+          "id": "nebula.fabricmod:forgified-fabric-api:0.116.7+2.2.4+1.21.1@jar",
+          "name": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+            "MD5": "882dc798bf56e49d746da462da242afd",
+            "size": 5569793
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fusion:1.3.2a-fabric-mc1.21@jar",
+          "name": "fusion-1.3.2a-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fusion-1.3.2a-fabric-mc1.21.jar",
+            "MD5": "3c023af76e692cbe429510d8c8680fa1",
+            "size": 859433
+          }
+        },
+        {
+          "id": "nebula.fabricmod:fzzy_config:0.7.6+1.21@jar",
+          "name": "fzzy_config-0.7.6+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/fzzy_config-0.7.6%2B1.21.jar",
+            "MD5": "dcedb9014b228c01941b2ef4f2743f19",
+            "size": 2365335
+          }
+        },
+        {
+          "id": "nebula.fabricmod:geyser-fabric-Geyser-Fabric:2.4.4-b705@jar",
+          "name": "geyser-fabric-Geyser-Fabric-2.4.4-b705.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/geyser-fabric-Geyser-Fabric-2.4.4-b705.jar",
+            "MD5": "393c2dccf33f97d8899cb9dadd057fa3",
+            "size": 16816926
+          }
+        },
+        {
+          "id": "nebula.fabricmod:GlitchCore-fabric:1.21.1-2.1.0.2@jar",
+          "name": "GlitchCore-fabric-1.21.1-2.1.0.2.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/GlitchCore-fabric-1.21.1-2.1.0.2.jar",
+            "MD5": "5ec4af3c719d3bced47491f7bc2f332c",
+            "size": 329237
+          }
+        },
+        {
+          "id": "nebula.fabricmod:handcrafted-fabric:1.21.1-4.0.3@jar",
+          "name": "handcrafted-fabric-1.21.1-4.0.3.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/handcrafted-fabric-1.21.1-4.0.3.jar",
+            "MD5": "4ae4f2fe6a71eaeeade3ce0eb1db7997",
+            "size": 7127377
+          }
+        },
+        {
+          "id": "nebula.fabricmod:ImmediatelyFast-Fabric:1.6.10+1.21.1@jar",
+          "name": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+            "MD5": "15a2eafb373bf55d7db6b45971110825",
+            "size": 342770
+          }
+        },
+        {
+          "id": "nebula.fabricmod:iris-fabric:1.8.14-beta.1+mc1.21.1@jar",
+          "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+            "MD5": "4399f0c3edfe2af7f61db3725fe5c751",
+            "size": 2791343
+          }
+        },
+        {
+          "id": "nebula.fabricmod:jei:1.21.1-fabric-19.27.0.343@jar",
+          "name": "jei-1.21.1-fabric-19.27.0.343.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/jei-1.21.1-fabric-19.27.0.343.jar",
+            "MD5": "9e6880baf3f92c75f1fc7bacb44f8358",
+            "size": 1562239
+          }
+        },
+        {
+          "id": "nebula.fabricmod:journeymap-fabric:1.21.1-6.0.0@jar",
+          "name": "journeymap-fabric-1.21.1-6.0.0.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/journeymap-fabric-1.21.1-6.0.0.jar",
+            "MD5": "d457427320410d69ffd922615bc98810",
+            "size": 4164427
+          }
+        },
+        {
+          "id": "nebula.fabricmod:Kiwi:1.21.1-Fabric-15.8.4@jar",
+          "name": "Kiwi-1.21.1-Fabric-15.8.4.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Kiwi-1.21.1-Fabric-15.8.4.jar",
+            "MD5": "8c7f1d01adb038a831a8d900d427cc61",
+            "size": 1555840
+          }
+        },
+        {
+          "id": "nebula.fabricmod:litematica-fabric:1.21-0.19.60@jar",
+          "name": "litematica-fabric-1.21-0.19.60.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/litematica-fabric-1.21-0.19.60.jar",
+            "MD5": "72a99316c2366d53d820076109604126",
+            "size": 1578454
+          }
+        },
+        {
+          "id": "nebula.fabricmod:lithostitched:1.7.10+beta4-fabric-21.1@jar",
+          "name": "lithostitched-1.7.10+beta4-fabric-21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/lithostitched-1.7.10%2Bbeta4-fabric-21.1.jar",
+            "MD5": "eb9572b9884da81ee0181c4257a78512",
+            "size": 827045
+          }
+        },
+        {
+          "id": "nebula.forgemod:magic_vibe_decorations:2.8.0-fabric-1.21-1.21.1@jar",
+          "name": "magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar",
+          "type": "ForgeMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar",
+            "MD5": "1de855bcee4d44bc17cd9167533e5c89",
+            "size": 1936101
+          }
+        },
+        {
+          "id": "nebula.fabricmod:malilib-fabric:1.21-0.21.10@jar",
+          "name": "malilib-fabric-1.21-0.21.10.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/malilib-fabric-1.21-0.21.10.jar",
+            "MD5": "6a5553e46eed0692d17b8cd566aed103",
+            "size": 1411200
+          }
+        },
+        {
+          "id": "nebula.fabricmod:mdm:26.5.0-fabric-1.21.1@jar",
+          "name": "mdm-26.5.0-fabric-1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/mdm-26.5.0-fabric-1.21.1.jar",
+            "MD5": "40f904638d7185bea78f46d8128acfd5",
+            "size": 2521898
+          }
+        },
+        {
+          "id": "nebula.fabricmod:modernfix-fabric:5.25.1+mc1.21.1@jar",
+          "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+            "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b",
+            "size": 471258
+          }
+        },
+        {
+          "id": "nebula.fabricmod:modmenu:11.0.4@jar",
+          "name": "modmenu-11.0.4.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/modmenu-11.0.4.jar",
+            "MD5": "b2b9c53a887c100f780708c4f36db6c4",
+            "size": 973059
+          }
+        },
+        {
+          "id": "nebula.fabricmod:moonlight-fabric:1.21.1-3.0.19@jar",
+          "name": "moonlight-fabric-1.21.1-3.0.19.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/moonlight-fabric-1.21.1-3.0.19.jar",
+            "MD5": "52098f00337bf2dee35c225e677d3629",
+            "size": 1639034
+          }
+        },
+        {
+          "id": "nebula.fabricmod:MouseTweaks-fabric-mc1.21:2.26@jar",
+          "name": "MouseTweaks-fabric-mc1.21-2.26.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/MouseTweaks-fabric-mc1.21-2.26.jar",
+            "MD5": "1d39ead1641ef522bc7ae92383f21da8",
+            "size": 75984
+          }
+        },
+        {
+          "id": "nebula.fabricmod:mythrais:5.0.3-1.21.1-fabric-beta5@jar",
+          "name": "mythrais-5.0.3-1.21.1-fabric-beta5.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/mythrais-5.0.3-1.21.1-fabric-beta5.jar",
+            "MD5": "7930d4d993f1712311e4380de9d88157",
+            "size": 9629152
+          }
+        },
+        {
+          "id": "nebula.fabricmod:owo-lib:0.13.0-alpha.15+1.21@jar",
+          "name": "owo-lib-0.13.0-alpha.15+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/owo-lib-0.13.0-alpha.15%2B1.21.jar",
+            "MD5": "a3eb2ecafeb4bc1fb453b13cb43a12c1",
+            "size": 1963544
+          }
+        },
+        {
+          "id": "nebula.fabricmod:particlerain:4.0.0-beta.10+1.21.1-fabric@jar",
+          "name": "particlerain-4.0.0-beta.10+1.21.1-fabric.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/particlerain-4.0.0-beta.10%2B1.21.1-fabric.jar",
+            "MD5": "d756346fdf583d11436a40aad0993d68",
+            "size": 608651
+          }
+        },
+        {
+          "id": "nebula.fabricmod:particular:1.1.2+1.21.jar.disabled@jar",
+          "name": "particular-1.1.2+1.21.jar.disabled",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/particular-1.1.2%2B1.21.jar.disabled",
+            "MD5": "98825e96e05e8c4a55a582278d9aca01",
+            "size": 240317
+          }
+        },
+        {
+          "id": "nebula.fabricmod:placeholder-api:2.4.2+1.21@jar",
+          "name": "placeholder-api-2.4.2+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/placeholder-api-2.4.2%2B1.21.jar",
+            "MD5": "4de8568a088a276c94168514d625413d",
+            "size": 232325
+          }
+        },
+        {
+          "id": "nebula.fabricmod:PresenceFootsteps:1.11.1+1.21@jar",
+          "name": "PresenceFootsteps-1.11.1+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/PresenceFootsteps-1.11.1%2B1.21.jar",
+            "MD5": "39c07edaae69316c6895b4eca52729ab",
+            "size": 5690812
+          }
+        },
+        {
+          "id": "nebula.fabricmod:rechiseled:1.2.4-fabric-mc1.21@jar",
+          "name": "rechiseled-1.2.4-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/rechiseled-1.2.4-fabric-mc1.21.jar",
+            "MD5": "ed15b2605a5e08998aad62a371b64a2a",
+            "size": 11913849
+          }
+        },
+        {
+          "id": "nebula.fabricmod:resourcefullib-fabric:1.21-3.0.12@jar",
+          "name": "resourcefullib-fabric-1.21-3.0.12.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/resourcefullib-fabric-1.21-3.0.12.jar",
+            "MD5": "89dac4248b76747800fbc00fa063825e",
+            "size": 485586
+          }
+        },
+        {
+          "id": "nebula.fabricmod:sodium-extra-fabric:0.8.7+mc1.21.1@jar",
+          "name": "sodium-extra-fabric-0.8.7+mc1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/sodium-extra-fabric-0.8.7%2Bmc1.21.1.jar",
+            "MD5": "933259260b0ab9b4e1180fcd94caf1e9",
+            "size": 400302
+          }
+        },
+        {
+          "id": "nebula.fabricmod:sodium-fabric:0.8.12-beta.1+mc1.21.1@jar",
+          "name": "sodium-fabric-0.8.12-beta.1+mc1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/sodium-fabric-0.8.12-beta.1%2Bmc1.21.1.jar",
+            "MD5": "5af0d036dda426b550e4f45159fea8f5",
+            "size": 1573127
+          }
+        },
+        {
+          "id": "nebula.fabricmod:SubtleEffects-fabric:1.21.1-1.14.3@jar",
+          "name": "SubtleEffects-fabric-1.21.1-1.14.3.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/SubtleEffects-fabric-1.21.1-1.14.3.jar",
+            "MD5": "bb3b3bc109ed23e5cdcd0b8be356acb1",
+            "size": 3301460
+          }
+        },
+        {
+          "id": "nebula.fabricmod:supermartijn642configlib:1.1.8-fabric-mc1.21@jar",
+          "name": "supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+            "MD5": "fff83455887d85c6f7ebac7bba24fa8f",
+            "size": 206993
+          }
+        },
+        {
+          "id": "nebula.fabricmod:supermartijn642corelib:1.1.21-fabric-mc1.21@jar",
+          "name": "supermartijn642corelib-1.1.21-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/supermartijn642corelib-1.1.21-fabric-mc1.21.jar",
+            "MD5": "3da1b1056bb9b19eee8957a537e6c5e0",
+            "size": 616830
+          }
+        },
+        {
+          "id": "nebula.fabricmod:supplementaries-fabric:1.21.1-3.7.4@jar",
+          "name": "supplementaries-fabric-1.21.1-3.7.4.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/supplementaries-fabric-1.21.1-3.7.4.jar",
+            "MD5": "54f204232fb54f5b00ab28ca008cf615",
+            "size": 13225279
+          }
+        },
+        {
+          "id": "nebula.fabricmod:TerraBlender-fabric:1.21.1-4.1.0.8@jar",
+          "name": "TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+            "MD5": "c82218938313a31a2e7d55028fe97e3a",
+            "size": 337990
+          }
+        },
+        {
+          "id": "nebula.fabricmod:Terralith_1.21.x_v2.6.2:1.0.0@jar",
+          "name": "Terralith_1.21.x_v2.6.2.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Terralith_1.21.x_v2.6.2.jar",
+            "MD5": "7d2aa346b66270e770fee79e5b4541d6",
+            "size": 2813817
+          }
+        },
+        {
+          "id": "nebula.fabricmod:thaumon-fabric:2.3.0+1.21@jar",
+          "name": "thaumon-fabric-2.3.0+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/thaumon-fabric-2.3.0%2B1.21.jar",
+            "MD5": "9d1065a408227bc4d2a6f3d226d26f92",
+            "size": 600958
+          }
+        },
+        {
+          "id": "nebula.fabricmod:veinminer-fabric:2.10.3+1.21.1@jar",
+          "name": "veinminer-fabric-2.10.3+1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/veinminer-fabric-2.10.3%2B1.21.1.jar",
+            "MD5": "92ce0cdee1e0dc7aff27146f9de0005f",
+            "size": 616051
+          }
+        },
+        {
+          "id": "nebula.fabricmod:visuality:0.7.7+1.21@jar",
+          "name": "visuality-0.7.7+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/visuality-0.7.7%2B1.21.jar",
+            "MD5": "f6afa7bac94101addeb4b2ee34eb828f",
+            "size": 79452
+          }
+        },
+        {
+          "id": "nebula.fabricmod:XKDeco:1.21.1-Fabric-1.1.9.jar.disabled@jar",
+          "name": "XKDeco-1.21.1-Fabric-1.1.9.jar.disabled",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/XKDeco-1.21.1-Fabric-1.1.9.jar.disabled",
+            "MD5": "5482d4ee82bd5d02c9be348d6f93f6f0",
+            "size": 2319315
+          }
+        },
+        {
+          "id": "nebula.fabricmod:1.21.1-fab-wavify:1.1.1@jar",
+          "name": "1.21.1-fab-wavify-1.1.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/1.21.1-fab-wavify-1.1.1.jar",
+            "MD5": "3f4208b7d8a3b937cf51ff82d371734e",
+            "size": 1946594
+          }
+        },
+        {
+          "id": "nebula.fabricmod:amendments-fabric:1.21-2.1.2@jar",
+          "name": "amendments-fabric-1.21-2.1.2.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/amendments-fabric-1.21-2.1.2.jar",
+            "MD5": "8216ce3a39f8ecef89f407a8c0ef04d4",
+            "size": 1147581
+          }
+        },
+        {
+          "id": "nebula.fabricmod:another_furniture-fabric:4.0.2@jar",
+          "name": "another_furniture-fabric-4.0.2.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/another_furniture-fabric-4.0.2.jar",
+            "MD5": "205dc477171d01dbbf8dc6c72db8c9cd",
+            "size": 2398841
+          }
+        },
+        {
+          "id": "nebula.fabricmod:athena-fabric:1.21.1-4.0.6@jar",
+          "name": "athena-fabric-1.21.1-4.0.6.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/athena-fabric-1.21.1-4.0.6.jar",
+            "MD5": "a549af3b3a32722ab81ff11d9f44f90b",
+            "size": 88425
+          }
+        },
+        {
+          "id": "nebula.fabricmod:Axiom:5.4.2-for-MC1.21.1@jar",
+          "name": "Axiom-5.4.2-for-MC1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/Axiom-5.4.2-for-MC1.21.1.jar",
+            "MD5": "76fce4da6c71015bcf3072974126feb2",
+            "size": 47067416
+          }
+        },
+        {
+          "id": "nebula.fabricmod:bbs:2.3-1.21.1@jar",
+          "name": "bbs-2.3-1.21.1.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/bbs-2.3-1.21.1.jar",
+            "MD5": "6b4542c08b11da8afbfdd94db3920f18",
+            "size": 6263905
+          }
+        },
+        {
+          "id": "nebula.fabricmod:BiomesOPlenty-fabric:1.21.1-21.1.0.14@jar",
+          "name": "BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
+            "MD5": "15976a65706b403c166e75d3afa7d616",
+            "size": 22349809
+          }
+        },
+        {
+          "id": "nebula.fabricmod:chipped-fabric:1.21.1-4.0.2@jar",
+          "name": "chipped-fabric-1.21.1-4.0.2.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/chipped-fabric-1.21.1-4.0.2.jar",
+            "MD5": "c98271e7ba961e78e4a589fc53fa71a2",
+            "size": 15016830
+          }
+        },
+        {
+          "id": "nebula.fabricmod:cloth-config:15.0.140-fabric@jar",
+          "name": "cloth-config-15.0.140-fabric.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/cloth-config-15.0.140-fabric.jar",
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884",
+            "size": 1157166
+          }
+        },
+        {
+          "id": "nebula.fabricmod:continuity:3.0.0+1.21@jar",
+          "name": "continuity-3.0.0+1.21.jar",
+          "type": "FabricMod",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/flaskstudios-launchers/cobbletournament/releases/download/v1.0.0/continuity-3.0.0%2B1.21.jar",
+            "MD5": "daee3841730e2576a621943f289deadb",
+            "size": 1014044
+          }
         }
       ]
     }
